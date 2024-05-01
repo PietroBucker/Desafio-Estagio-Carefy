@@ -1,6 +1,6 @@
 <?php
     //Chave de acesso para api
-    $chave = "sua chave aqui";
+    $chave = "sua chave da api aqui";
 
     //ID da planilha do Google Sheets
     $id = "1-fWXw-8tuKHiDdaSmNIUnNcRrcah2D8Bw_zaME0HxpM";
